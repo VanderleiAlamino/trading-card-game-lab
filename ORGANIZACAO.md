@@ -3,7 +3,8 @@
 ## Fase 1: Planejamento e Documentação
 - [x] Criar repositório no GitHub.
 - [x] Estruturar README inicial.
-- [x] Configurar proteção no repositório 
+- [x] Configurar proteção no repositório
+- [x] Configurar PR da feature/branchs para QA
 - [ ] Definir ferramentas e processos.
 - [ ] Finalizar documentação inicial.
 
