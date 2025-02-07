@@ -3,7 +3,8 @@
 ## Fase 1: Planejamento e Documentação
 - [x] Criar repositório no GitHub.
 - [x] Estruturar README inicial.
-- [x] Definir ferramentas e processos.
+- [x] Configurar proteção no repositório
+- [ ] Definir ferramentas e processos.
 - [ ] Finalizar documentação inicial.
 
 ## Fase 2: Configuração do Repositório
