@@ -1,8 +1,3 @@
-### **Fase 1: Planejamento e Documentação**
-
-#### **Passo 1: Estruturar o README Inicial**
-O README é o cartão de visitas do seu projeto. Ele deve ser claro, conciso e fornecer uma visão geral do projeto. Aqui está um esboço para o README inicial:
-
 # Trading Card Game Lab
 
 ## Descrição
