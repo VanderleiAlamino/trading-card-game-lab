@@ -102,12 +102,3 @@ Antes de começar a desenvolver funcionalidades, finalize a documentação e pre
 3. **Revisar o Plano de Ação**:
    - Revise todas as etapas concluídas e ajuste o plano conforme necessário.
 
----
-
-### **Próximos Passos**
-Se estivermos alinhados até aqui, podemos avançar para detalhar cada uma dessas fases. Por exemplo:
-- Criar um esboço do README inicial.
-- Detalhar a configuração do GitHub Actions.
-- Definir as regras de linting e formatação de código.
-
-Lembre-se: o objetivo é garantir que o projeto tenha uma base sólida antes de começarmos a desenvolver funcionalidades. Estou à disposição para ajudar em cada etapa! 😊
