@@ -4,6 +4,7 @@
 - [x] Criar repositório no GitHub.
 - [x] Estruturar README inicial.
 - [x] Configurar proteção no repositório 
+- [x] Fazer um teste de merge
 - [ ] Definir ferramentas e processos.
 - [ ] Finalizar documentação inicial.
 
