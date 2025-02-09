@@ -27,8 +27,8 @@ jobs:
           node-version: 18 # Versão do Node.js
 
       # Passo 3: Instalar dependências
-      - name: Install dependencies
-        run: npm install
+      # - name: Install dependencies
+      #   run: npm install
 
       # Passo 4: Executar ESLint
       - name: Run ESLint
