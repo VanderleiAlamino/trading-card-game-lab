@@ -10,7 +10,7 @@
     "prepare": "husky install"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/VanderleiAlamino/trading-card-game-lab.git"
   },
   "keywords": [],
