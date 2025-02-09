@@ -4,7 +4,7 @@
   "description": "Este projeto é um laboratório para desenvolver um jogo de cartas estilo \"Final Fantasy Trading Card Game\". O objetivo é explorar tecnologias modernas de desenvolvimento web, incluindo microfrontends com Module Federation, backend em Node.js com arquitetura hexagonal e frontend com Atomic Design.",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "lint": "eslint .",
     "format": "prettier --write .",
     "test": "echo \"Testes ainda não configurados\"",
     "prepare": "husky install"
