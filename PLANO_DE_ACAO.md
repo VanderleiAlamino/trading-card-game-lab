@@ -1,7 +1,8 @@
 ### **Plano de Ação**
 
 #### **Fase 1: Planejamento e Documentação**
-Antes de qualquer coisa, precisamos documentar o projeto para garantir que todos os aspectos estejam claros e bem definidos. Isso inclui:
+Antes de qualquer coisa, precisamos documentar o projeto para garantir que todos os aspectos estejam claros e bem definidos. Isso inclui: 
+
 
 1. **Definir o Escopo do Projeto**:
    - Descrever o objetivo do projeto (criar um jogo de cartas estilo "Final Fantasy Trading Card Game").
