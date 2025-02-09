@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Este projeto é um laboratório para desenvolver um jogo de cartas estilo \"Final Fantasy Trading Card Game\". O objetivo é explorar tecnologias modernas de desenvolvimento web, incluindo microfrontends com Module Federation, backend em Node.js com arquitetura hexagonal e frontend com Atomic Design.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "lint": "eslint .",
     "format": "prettier --write .",
@@ -10,7 +11,7 @@
     "prepare": "husky install"
   },
   "repository": {
-    "type": "module",
+    "type": "git",    
     "url": "git+https://github.com/VanderleiAlamino/trading-card-game-lab.git"
   },
   "keywords": [],
