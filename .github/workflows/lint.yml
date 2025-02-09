@@ -1,0 +1,35 @@
+name: Lint Code
+
+# Define quando o workflow será executado
+on:
+  push:
+    branches:
+      - master
+      - feature/**
+  pull_request:
+    branches:
+      - master
+
+# Define os jobs do workflow
+jobs:
+  lint:
+    runs-on: ubuntu-latest # Define o ambiente de execução (Ubuntu)
+
+    steps:
+      # Passo 1: Fazer checkout do código
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Passo 2: Configurar Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18 # Versão do Node.js
+
+      # Passo 3: Instalar dependências
+      - name: Install dependencies
+        run: npm install
+
+      # Passo 4: Executar ESLint
+      - name: Run ESLint
+        run: npx eslint .
