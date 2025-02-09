@@ -1,0 +1,34 @@
+# Ignorar dependências instaladas
+node_modules/
+
+# Ignorar arquivos de lock (opcional, dependendo da sua estratégia)
+# package-lock.json
+
+# Ignorar logs e dados temporários
+*.log
+*.tmp
+.temp/
+
+# Ignorar arquivos de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos de build
+/dist/
+/build/
+
+# Ignorar arquivos específicos do macOS
+.DS_Store
+
+# Ignorar arquivos específicos do Windows
+Thumbs.db
+
+# Ignorar arquivos de cache
+.cache/
+npm-debug.log*
+
+# Ignorar arquivos de ambiente
+.env
+.env.local
