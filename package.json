@@ -1,0 +1,36 @@
+{
+  "name": "trading-card-game-lab",
+  "version": "1.0.0",
+  "description": "Este projeto é um laboratório para desenvolver um jogo de cartas estilo \"Final Fantasy Trading Card Game\". O objetivo é explorar tecnologias modernas de desenvolvimento web, incluindo microfrontends com Module Federation, backend em Node.js com arquitetura hexagonal e frontend com Atomic Design.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "format": "prettier --write .",
+    "test": "echo \"Testes ainda não configurados\"",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanderleiAlamino/trading-card-game-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanderleiAlamino/trading-card-game-lab/issues"
+  },
+  "homepage": "https://github.com/VanderleiAlamino/trading-card-game-lab#readme",
+  "workspaces": [
+    "backend",
+    "shared-components",
+    "microfrontends/react-app",
+    "microfrontends/angular-app",
+    "microfrontends/vue-app"
+  ],
+  "devDependencies": {
+    "eslint": "^9.20.0",
+    "eslint-config-prettier": "^10.0.1",
+    "husky": "^8.0.0",
+    "prettier": "^3.5.0"
+  }
+}
